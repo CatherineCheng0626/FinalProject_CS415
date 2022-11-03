@@ -1770,19 +1770,19 @@
                                     "Shader Name": "RLEye",
                                     "Image": {
                                         "Iris Normal": {
-                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisN.png"
+                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_IrisN.png"
                                         },
                                         "Sclera Normal": {
-                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_MicroN.png"
+                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_MicroN.png"
                                         },
                                         "EyeBlendMap2": {
-                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_BCBMap.jpg"
+                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_BCBMap.jpg"
                                         },
                                         "Inner Iris Mask": {
-                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisMask.png"
+                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_IrisMask.png"
                                         },
                                         "Sclera": {
-                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_Sclera.jpg"
+                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_Sclera.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -1993,19 +1993,19 @@
                                     "Shader Name": "RLEye",
                                     "Image": {
                                         "Iris Normal": {
-                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisN.png"
+                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_IrisN.png"
                                         },
                                         "Sclera Normal": {
-                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_MicroN.png"
+                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_MicroN.png"
                                         },
                                         "EyeBlendMap2": {
-                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_BCBMap.jpg"
+                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_BCBMap.jpg"
                                         },
                                         "Inner Iris Mask": {
-                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisMask.png"
+                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_IrisMask.png"
                                         },
                                         "Sclera": {
-                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_Sclera.jpg"
+                                            "Texture Path": "./textures/child/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_Sclera.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -2157,13 +2157,13 @@
                                     "Shader Name": "RLTeethGum",
                                     "Image": {
                                         "MicroNormal": {
-                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_MicroN.png"
+                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_MicroN.png"
                                         },
                                         "Gradient AO": {
-                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_GradAO.jpg"
+                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_GradAO.jpg"
                                         },
                                         "Gums Mask": {
-                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_GumsMask.jpg"
+                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_GumsMask.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -2295,13 +2295,13 @@
                                     "Shader Name": "RLTeethGum",
                                     "Image": {
                                         "MicroNormal": {
-                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_MicroN.png"
+                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_MicroN.png"
                                         },
                                         "Gradient AO": {
-                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_GradAO.jpg"
+                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_GradAO.jpg"
                                         },
                                         "Gums Mask": {
-                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_GumsMask.jpg"
+                                            "Texture Path": "./textures/child/cc_base_teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_GumsMask.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -2828,7 +2828,7 @@
                                         ]
                                     },
                                     "Glow": {
-                                        "Texture Path": "./textures/child/basic_t_shirts/Basic_T_shirts/Basic_T_shirts/Basic_T_shirts_Glow.jpg",
+                                        "Texture Path": "./textures/child/basic_t_shirts/Basic_T_shirts/Basic_T_shirts/Basic_T_shirts_Glow.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
