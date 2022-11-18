@@ -1,0 +1,7 @@
+项目存放位置:  Content/ XX（解压后的文件夹）
+
+新建项目后 解压后的总文件夹复制粘贴  放入Content目录下
+
+ 例如：解压后的文件夹为 Modular_Rural_Cabin
+那么层级目录就应该是： Content - Modular_Rural_Cabin - Maps
+一般层级目录都是三层~ 层级目录错误会导致场景读取不出来或者材质丢失~
